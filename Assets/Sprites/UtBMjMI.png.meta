@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 5ec73687c75e725419a8ba5ed9591480
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UtBMjMI_18
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 859
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2467ae32518de49a776bd0d0086e2a
+      internalID: -2132275531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UtBMjMI_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 861
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c76d5e91a926bf4bac10b69ba955403
+      internalID: -1460477019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UtBMjMI_23
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 861
+        width: 72
+        height: 70
+      alignment: 9
+      pivot: {x: 0.39820924, y: 0.7622573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc68af73d80024c99e50daac2b691a
+      internalID: 1265313878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UtBMjMI_27: -128407784
+      UtBMjMI_2: -591512010
+      UtBMjMI_22: -2020384084
+      UtBMjMI_26: -1742900808
+      UtBMjMI_28: -1991632206
+      UtBMjMI_119: -1287626478
+      UtBMjMI_137: -561339942
+      UtBMjMI_37: -919014780
+      UtBMjMI_65: 1877932735
+      UtBMjMI_83: -93199390
+      UtBMjMI_108: 1028885858
+      UtBMjMI_129: 2027901229
+      UtBMjMI_141: -356471755
+      UtBMjMI_39: 1663440221
+      UtBMjMI_54: -2063730862
+      UtBMjMI_109: -677025671
+      UtBMjMI_124: -1374671885
+      UtBMjMI_21: -1460477019
+      UtBMjMI_0: -1516131738
+      UtBMjMI_98: -1808069646
+      UtBMjMI_29: 1882973613
+      UtBMjMI_68: -800953525
+      UtBMjMI_3: 1037354967
+      UtBMjMI_32: -860432398
+      UtBMjMI_90: 553091245
+      UtBMjMI_114: 524392648
+      UtBMjMI_112: 1703497899
+      UtBMjMI_130: 841801209
+      UtBMjMI_135: 453132848
+      UtBMjMI_15: 352863788
+      UtBMjMI_74: 1085766914
+      UtBMjMI_75: -694826998
+      UtBMjMI_89: -1741243658
+      UtBMjMI_102: 492821316
+      UtBMjMI_50: 1255815615
+      UtBMjMI_14: -1274836598
+      UtBMjMI_1: 780492588
+      UtBMjMI_5: 360785529
+      UtBMjMI_64: 690141489
+      UtBMjMI_106: -796737563
+      UtBMjMI_111: -1320396837
+      UtBMjMI_57: 1464217177
+      UtBMjMI_88: -9711182
+      UtBMjMI_44: 324440932
+      UtBMjMI_73: 207841782
+      UtBMjMI_131: -1603904783
+      UtBMjMI_66: -547955823
+      UtBMjMI_47: 394655089
+      UtBMjMI_76: 1258607571
+      UtBMjMI_79: 2047876606
+      UtBMjMI_92: -2034903091
+      UtBMjMI_115: 170223294
+      UtBMjMI_99: 354972580
+      UtBMjMI_71: 2079442300
+      UtBMjMI_6: -69970743
+      UtBMjMI_49: 1299460378
+      UtBMjMI_87: -617963923
+      UtBMjMI_8: -248726449
+      UtBMjMI_33: -468295940
+      UtBMjMI_95: 2012842407
+      UtBMjMI_7: 975215641
+      UtBMjMI_52: -566376283
+      UtBMjMI_127: 2023981281
+      UtBMjMI_85: 1402862138
+      UtBMjMI_77: 294902184
+      UtBMjMI_121: -459531618
+      UtBMjMI_100: -352263726
+      UtBMjMI_136: -581052904
+      UtBMjMI_9: -1258559264
+      UtBMjMI_110: 930670439
+      UtBMjMI_62: 208444132
+      UtBMjMI_56: 1506848966
+      UtBMjMI_63: -756215636
+      UtBMjMI_24: -1838925593
+      UtBMjMI_123: 2026302079
+      UtBMjMI_117: -1607265046
+      UtBMjMI_11: -1541363056
+      UtBMjMI_43: -1876883315
+      UtBMjMI_118: 748083559
+      UtBMjMI_30: 62693424
+      UtBMjMI_42: -640445848
+      UtBMjMI_46: 437627591
+      UtBMjMI_82: -786484296
+      UtBMjMI_107: 1548162846
+      UtBMjMI_97: 728288835
+      UtBMjMI_55: -1398667171
+      UtBMjMI_134: 519271101
+      UtBMjMI_126: 1582783210
+      UtBMjMI_31: -951993844
+      UtBMjMI_20: 1323235483
+      UtBMjMI_140: -926136844
+      UtBMjMI_72: 709840471
+      UtBMjMI_70: 1283270383
+      UtBMjMI_69: 706291440
+      UtBMjMI_138: 1156931757
+      UtBMjMI_13: -1355873314
+      UtBMjMI_17: 46506053
+      UtBMjMI_18: -2132275531
+      UtBMjMI_122: -1471477129
+      UtBMjMI_96: 384438759
+      UtBMjMI_58: 1942617511
+      UtBMjMI_104: -869559858
+      UtBMjMI_84: 2124045363
+      UtBMjMI_133: 1710533563
+      UtBMjMI_93: 189026593
+      UtBMjMI_91: -1326588739
+      UtBMjMI_4: -467047188
+      UtBMjMI_19: 368637706
+      UtBMjMI_67: 43309669
+      UtBMjMI_53: -550677132
+      UtBMjMI_41: 801220697
+      UtBMjMI_12: 11427047
+      UtBMjMI_113: 922973947
+      UtBMjMI_94: -2018897899
+      UtBMjMI_60: 1441460958
+      UtBMjMI_81: -268237661
+      UtBMjMI_59: -512453821
+      UtBMjMI_116: 1851424980
+      UtBMjMI_128: 48619156
+      UtBMjMI_16: 676685807
+      UtBMjMI_101: 2006813569
+      UtBMjMI_61: -815768329
+      UtBMjMI_105: -1828276502
+      UtBMjMI_23: 1265313878
+      UtBMjMI_103: 231593669
+      UtBMjMI_86: -985040793
+      UtBMjMI_125: 502025873
+      UtBMjMI_48: 797260647
+      UtBMjMI_40: -1981654760
+      UtBMjMI_35: 1754983697
+      UtBMjMI_36: -1846121593
+      UtBMjMI_45: 1637668739
+      UtBMjMI_78: -1836666962
+      UtBMjMI_25: -1545577378
+      UtBMjMI_120: 1810829165
+      UtBMjMI_132: 1626503952
+      UtBMjMI_51: -399678093
+      UtBMjMI_80: -754687092
+      UtBMjMI_34: -1761495922
+      UtBMjMI_10: -759523828
+      UtBMjMI_38: -1940503500
+      UtBMjMI_139: -1572553306
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
